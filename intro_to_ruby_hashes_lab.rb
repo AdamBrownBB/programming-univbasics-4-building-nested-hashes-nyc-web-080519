@@ -3,7 +3,7 @@ def base_hash
    :car => "silver"
  }
 monopoly
-	{}
+	
 end
 
 def monopoly_with_second_tier
